@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+}
+.heading{
+    width: 100%;
+    text-align: center;
+    height: 60px;
+    background-color: #45403f;
+    padding: 0%;
+    color:white;
+}
+h2{
+    margin:0%;
+    padding-top: 15px;
+}
+p{
+    margin-bottom: 2px;
+}
+#side-bar{
+    float: left;
+    text-align: center;
+    width: 20%;
+    height: 100vh;
+    background-color: gray;
+    padding: 10px;
+}
+input{
+    width: 50%;
+}
+#search-city{
+    height: 2.0em;
+    width: 80%;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#button-search{
+    float: left;
+}
+
+.fas .fa-search{
+    height: 1.2em;
+}
+.popBox{
+    float: left;
+    width: 80%;
+}
+.cityAdded{
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    padding: 3px;
+    border: 1px solid black;
+}

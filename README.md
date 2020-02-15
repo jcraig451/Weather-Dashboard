@@ -1,6 +1,8 @@
 # Weather-Dashboard
 This application allows a user to input a city from anywhere in the world and it will display the current weather conditions as seen below.
 
+Click the link for the deployed application: https://jcraig451.github.io/Weather-Dashboard/
+
 <img src="assets/images/Weather_Dashboard.JPG" alt="Weather Display Screen"  style="width:725px;height:613px;">
 <hr>
 
